@@ -1,0 +1,27 @@
+{
+  "name": "carsone",
+  "version": "1.0.0",
+  "description": "carsone website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linghuyong/linghuyong.github.io.git"
+  },
+  "author": "linghuyong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linghuyong/linghuyong.github.io/issues"
+  },
+  "homepage": "https://github.com/linghuyong/linghuyong.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inline-source": "^3.1.0",
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "amfe-flexible": "^2.2.1"
+  }
+}
